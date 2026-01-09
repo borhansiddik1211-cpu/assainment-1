@@ -238,3 +238,9 @@ footer{
    padding: 30px 0px;
 }
 
+.footer-hr-line{
+    height: 2px;
+    color: #1cda07;
+    width: 540px;
+    margin: auto;
+}
